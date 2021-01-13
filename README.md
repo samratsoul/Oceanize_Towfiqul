@@ -1,2 +1,10 @@
 # Oceanize_Towfiqul
-This is a test project
+- Kotlin
+- MVVM
+- Room
+- Retrofit2
+- Pagination
+- Animation
+- Unit Test
+- Live data
+- Landscape support
